@@ -1,0 +1,1753 @@
+TFirstBounce
+v7
+r0
+t322462067.822293
+cCheck dependencies
+cCpResource build/Debug-iphoneos/FirstBounce.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Info.plist Resources/Info.plist
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blocks.png Resources/blocks.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Default.png Resources/Default.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/fps_images.png Resources/fps_images.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon.png Resources/Icon.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon@2x.png Resources/Icon@2x.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small.png Resources/Icon-Small.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphoneos/FirstBounce.app/iTunesArtwork Resources/iTunesArtwork
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/seeker.png Resources/seeker.png
+cCpResource build/Debug-iphoneos/FirstBounce.app/greenandwhiteball.jpeg Resources/greenandwhiteball.jpeg
+cCpResource build/Debug-iphoneos/FirstBounce.app/blueball.jpeg Resources/blueball.jpeg
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Babyball.png Resources/Babyball.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/bigball.png Resources/bigball.png
+cCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/mediumball.png Resources/mediumball.png
+cProcessPCH /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch.gch FirstBounce_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH++ /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch.gch FirstBounce_Prefix.pch normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/main.o /Users/wibge/bounce/FirstBounce/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounceAppDelegate.o /Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/HelloWorldScene.o /Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/GLES-Render.o /Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/RootViewController.o /Users/wibge/bounce/FirstBounce/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce normal armv6
+cGenerateDSYMFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app.dSYM /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce
+cProcessProductPackaging "/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision" /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision
+cTouch /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent
+cCodeSign /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC10DCA00000000000022F0
+t1287720394
+s8944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC10DCA0000000000002650
+t1287720394
+s9808
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/inttypes.h
+c000000004CB3E4B800000000000027D1
+t1286857912
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/objc.h
+c000000004CC1098E0000000000000A2F
+t1287719310
+s2607
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stddef.h
+c000000004CB3E4B80000000000001404
+t1286857912
+s5124
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/time.h
+c000000004CBFACD90000000000001E17
+t1287630041
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision
+c000000004D74584B0000000000004578
+t1299470411
+s17784
+
+N/Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.h
+c000000004D8695B10000000000000189
+t1300665777
+s393
+i<UIKit/UIKit.h>
+
+N/Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm
+c000000004D8695B100000000000011A2
+t1300665777
+s4514
+i"cocos2d.h"
+i"FirstBounceAppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Users/wibge/bounce/FirstBounce/Classes/GLES-Render.h
+c000000004D8695B10000000000000867
+t1300665777
+s2151
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Box2D.h"
+
+N/Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm
+c000000004D8695B10000000000001402
+t1300665777
+s5122
+i"GLES-Render.h"
+i<cstdio>
+i<cstdarg>
+i<cstring>
+
+N/Users/wibge/bounce/FirstBounce/Classes/GameConfig.h
+c000000004D8695B10000000000000224
+t1300665777
+s548
+
+N/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.h
+c000000004D86A7E2000000000000026A
+t1300670434
+s618
+i"cocos2d.h"
+i"Box2D.h"
+i"GLES-Render.h"
+
+N/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm
+c000000004D8829EF0000000000002499
+t1300769263
+s9369
+i"HelloWorldScene.h"
+i"CCTouchDispatcher.h"
+
+N/Users/wibge/bounce/FirstBounce/Classes/RootViewController.h
+c000000004D8695B100000000000000EC
+t1300665777
+s236
+i<UIKit/UIKit.h>
+
+N/Users/wibge/bounce/FirstBounce/Classes/RootViewController.m
+c000000004D8695B10000000000001140
+t1300665777
+s4416
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/FirstBounce_Prefix.pch
+c000000004D8695B100000000000000B9
+t1300665777
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wibge/bounce/FirstBounce/Resources/Babyball.png
+c000000004D8821840000000000002170
+t1300767108
+s8560
+
+N/Users/wibge/bounce/FirstBounce/Resources/Default.png
+c000000004D8695B100000000000077AB
+t1300665777
+s30635
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon-72.png
+c000000004D8695B10000000000002C96
+t1300665777
+s11414
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon-Small-50.png
+c000000004D8695B10000000000001F2B
+t1300665777
+s7979
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon-Small.png
+c000000004D8695B1000000000000135C
+t1300665777
+s4956
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon-Small@2x.png
+c000000004D8695B100000000000024F9
+t1300665777
+s9465
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon.png
+c000000004D8695B1000000000000246F
+t1300665777
+s9327
+
+N/Users/wibge/bounce/FirstBounce/Resources/Icon@2x.png
+c000000004D8695B10000000000005375
+t1300665777
+s21365
+
+N/Users/wibge/bounce/FirstBounce/Resources/bigball.png
+c000000004D8821A30000000000011FC2
+t1300767139
+s73666
+
+N/Users/wibge/bounce/FirstBounce/Resources/blocks.png
+c000000004D8695B100000000000007D1
+t1300665777
+s2001
+
+N/Users/wibge/bounce/FirstBounce/Resources/blueball.jpeg
+c000000004D88205A00000000000004A2
+t1300766810
+s1186
+
+N/Users/wibge/bounce/FirstBounce/Resources/fps_images.png
+c000000004D8695B1000000000000183B
+t1300665777
+s6203
+
+N/Users/wibge/bounce/FirstBounce/Resources/greenandwhiteball.jpeg
+c000000004D88206E0000000000000577
+t1300766830
+s1399
+
+N/Users/wibge/bounce/FirstBounce/Resources/iTunesArtwork
+c000000004D8695B1000000000000F21E
+t1300665777
+s61982
+
+N/Users/wibge/bounce/FirstBounce/Resources/mediumball.png
+c000000004D8821980000000000005ACB
+t1300767128
+s23243
+
+N/Users/wibge/bounce/FirstBounce/Resources/seeker.png
+c000000004D8696280000000000001261
+t1300665896
+s4705
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+t1300769267
+s850
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app.dSYM
+t1300769267
+s102
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Babyball.png
+t1300767212
+s8673
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Default.png
+t1300673214
+s31932
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce
+t1300769267
+s1701152
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-72.png
+t1300673214
+s12252
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png
+t1300673214
+s8600
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small.png
+t1300673214
+s5241
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png
+t1300673214
+s10151
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon.png
+t1300673214
+s10022
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon@2x.png
+t1300673214
+s23297
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Info.plist
+t1300673213
+s1060
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/PkgInfo
+t1300673213
+s8
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/ResourceRules.plist
+t1300673213
+s485
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/bigball.png
+t1300767213
+s70087
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blocks.png
+t1300673214
+s1734
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blueball.jpeg
+t1300766964
+s1186
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision
+t1300673217
+s17784
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/fps_images.png
+t1300673214
+s7188
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/greenandwhiteball.jpeg
+t1300766964
+s1399
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/iTunesArtwork
+t1300673214
+s61982
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/mediumball.png
+t1300767212
+s23204
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/seeker.png
+t1300673214
+s4180
+
+N/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/libcocos2d libraries.a
+c000000004D86B2BD00000000004F31E8
+t1300673213
+s5190120
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent
+t1300673217
+s428
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounce.LinkFileList
+c000000004D86B2BD000000000000027B
+t1300673213
+s635
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounceAppDelegate.o
+t1300673215
+s60792
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/GLES-Render.o
+t1300673216
+s24780
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/HelloWorldScene.o
+t1300769267
+s104440
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/RootViewController.o
+t1300673216
+s46896
+
+N/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/main.o
+t1300673215
+s3348
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Box2D.h
+c000000004D8695B1000000000000088B
+t1300665777
+s2187
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004D8695B10000000000000982
+t1300665777
+s2434
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004D8695B10000000000000F38
+t1300665777
+s3896
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2Shape.h
+c000000004D8695B10000000000000CB9
+t1300665777
+s3257
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2BroadPhase.h
+c000000004D8695B10000000000001843
+t1300665777
+s6211
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Collision.h
+c000000004D8695B10000000000001FA1
+t1300665777
+s8097
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Distance.h
+c000000004D8695B10000000000000EB5
+t1300665777
+s3765
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2DynamicTree.h
+c000000004D8695B10000000000001C14
+t1300665777
+s7188
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.h
+c000000004D8695B1000000000000075D
+t1300665777
+s1885
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+i<climits>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2BlockAllocator.h
+c000000004D8695B100000000000006F3
+t1300665777
+s1779
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Math.h
+c000000004D8695B100000000000038D1
+t1300665777
+s14545
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Settings.h
+c000000004D8695B1000000000000149D
+t1300665777
+s5277
+i<cassert>
+i<cmath>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2StackAllocator.h
+c000000004D8695B1000000000000068B
+t1300665777
+s1675
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004D8695B10000000000001A04
+t1300665777
+s6660
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2DistanceJoint.h
+c000000004D8695B20000000000000EFD
+t1300665778
+s3837
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2FrictionJoint.h
+c000000004D8695B20000000000000AD5
+t1300665778
+s2773
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2GearJoint.h
+c000000004D8695B20000000000000C75
+t1300665778
+s3189
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2Joint.h
+c000000004D8695B200000000000015B0
+t1300665778
+s5552
+i<Box2D/Common/b2Math.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2LineJoint.h
+c000000004D8695B20000000000001367
+t1300665778
+s4967
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2MouseJoint.h
+c000000004D8695B20000000000000D77
+t1300665778
+s3447
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2PrismaticJoint.h
+c000000004D8695B20000000000001475
+t1300665778
+s5237
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2PulleyJoint.h
+c000000004D8695B200000000000010B4
+t1300665778
+s4276
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2RevoluteJoint.h
+c000000004D8695B200000000000014C0
+t1300665778
+s5312
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2WeldJoint.h
+c000000004D8695B200000000000009D7
+t1300665778
+s2519
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Body.h
+c000000004D8695B20000000000005283
+t1300665778
+s21123
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.h
+c000000004D8695B20000000000000603
+t1300665778
+s1539
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Fixture.h
+c000000004D8695B2000000000000218D
+t1300665778
+s8589
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2TimeStep.h
+c000000004D8695B200000000000004DB
+t1300665778
+s1243
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2World.h
+c000000004D8695B30000000000002229
+t1300665779
+s8745
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004D8695B30000000000001E03
+t1300665779
+s7683
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCAction.h
+c000000004D8695B3000000000000167A
+t1300665779
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionCamera.h
+c000000004D8695B300000000000009BC
+t1300665779
+s2492
+i"CCActionInterval.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionEase.h
+c000000004D8695B30000000000001671
+t1300665779
+s5745
+i"CCActionInterval.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionGrid.h
+c000000004D8695B3000000000000148B
+t1300665779
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionGrid3D.h
+c000000004D8695B30000000000001A8A
+t1300665779
+s6794
+i"CCActionGrid.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionInstant.h
+c000000004D8695B300000000000013AA
+t1300665779
+s5034
+i"CCAction.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionInterval.h
+c000000004D8695B30000000000003265
+t1300665779
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionManager.h
+c000000004D8695B30000000000001071
+t1300665779
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D8695B30000000000000644
+t1300665779
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionProgressTimer.h
+c000000004D8695B3000000000000088D
+t1300665779
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionTiledGrid.h
+c000000004D8695B30000000000001A15
+t1300665779
+s6677
+i"CCActionGrid.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCActionTween.h
+c000000004D8695B30000000000000931
+t1300665779
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCAnimation.h
+c000000004D8695B3000000000000126D
+t1300665779
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCAnimationCache.h
+c000000004D8695B300000000000008DD
+t1300665779
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCAtlasNode.h
+c000000004D8695B30000000000000C06
+t1300665779
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCBlockSupport.h
+c000000004D8695B3000000000000066F
+t1300665779
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCCamera.h
+c000000004D8695B30000000000000C84
+t1300665779
+s3204
+i"CCNode.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCCompatibility.h
+c000000004D8695B30000000000003891
+t1300665779
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCConfiguration.h
+c000000004D8695B30000000000000D36
+t1300665779
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCDirector.h
+c000000004D8695B300000000000025C4
+t1300665779
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D8695B30000000000000C32
+t1300665779
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCGrabber.h
+c000000004D8695B300000000000005E4
+t1300665779
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCGrid.h
+c000000004D8695B30000000000000E5A
+t1300665779
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCLabelAtlas.h
+c000000004D8695B30000000000000B24
+t1300665779
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCLabelBMFont.h
+c000000004D8695B30000000000001641
+t1300665779
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCLabelTTF.h
+c000000004D8695B30000000000000A87
+t1300665779
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCLayer.h
+c000000004D8695B300000000000020E9
+t1300665779
+s8425
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCMenu.h
+c000000004D8695B30000000000000B29
+t1300665779
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCMenuItem.h
+c000000004D8695B300000000000033A8
+t1300665779
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCMotionStreak.h
+c000000004D8695B30000000000000B2A
+t1300665779
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCNode.h
+c000000004D8695B30000000000004485
+t1300665779
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCParallaxNode.h
+c000000004D8695B3000000000000075D
+t1300665779
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCParticleExamples.h
+c000000004D8695B30000000000000AD0
+t1300665779
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCParticleSystem.h
+c000000004D8695B300000000000037B8
+t1300665779
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D8695B30000000000000846
+t1300665779
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D8695B300000000000009F8
+t1300665779
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCProgressTimer.h
+c000000004D8695B30000000000000B48
+t1300665779
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCProtocols.h
+c000000004D8695B30000000000000F9A
+t1300665779
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCRenderTexture.h
+c000000004D8695B30000000000000F2A
+t1300665779
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCRibbon.h
+c000000004D8695B30000000000000FCD
+t1300665779
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCScene.h
+c000000004D8695B30000000000000676
+t1300665779
+s1654
+i"CCNode.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCScheduler.h
+c000000004D8695B300000000000019D7
+t1300665779
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCSprite.h
+c000000004D8695B3000000000000345C
+t1300665779
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D8695B300000000000018F8
+t1300665779
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCSpriteFrame.h
+c000000004D8695B30000000000000D5A
+t1300665779
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D8695B30000000000001394
+t1300665779
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCSpriteSheet.h
+c000000004D8695B300000000000009FE
+t1300665779
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTMXLayer.h
+c000000004D8695B3000000000000182A
+t1300665779
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D8695B300000000000008D5
+t1300665779
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTMXTiledMap.h
+c000000004D8695B300000000000014D4
+t1300665779
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTMXXMLParser.h
+c000000004D8695B300000000000016B9
+t1300665779
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTexture2D.h
+c000000004D8695B30000000000002C9A
+t1300665779
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTextureAtlas.h
+c000000004D8695B3000000000000145B
+t1300665779
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTextureCache.h
+c000000004D8695B300000000000014C2
+t1300665779
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTexturePVR.h
+c000000004D8695B30000000000000FB9
+t1300665779
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTileMapAtlas.h
+c000000004D8695B30000000000000B86
+t1300665779
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTransition.h
+c000000004D8695B30000000000002134
+t1300665779
+s8500
+i"CCScene.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D8695B30000000000000917
+t1300665779
+s2327
+i"CCTransition.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/CCTransitionRadial.h
+c000000004D8695B30000000000000630
+t1300665779
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/CCGL.h
+c000000004D8695B30000000000000BF8
+t1300665779
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/CCNS.h
+c000000004D8695B30000000000000965
+t1300665779
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D8695B30000000000000C84
+t1300665779
+s3204
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D8695B30000000000001AA7
+t1300665779
+s6823
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D8695B30000000000000B8C
+t1300665779
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D8695B30000000000002B53
+t1300665779
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D8695B30000000000000BC3
+t1300665779
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D8695B300000000000010CA
+t1300665779
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D8695B30000000000000D99
+t1300665779
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D8695B40000000000001B69
+t1300665780
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D8695B4000000000000083A
+t1300665780
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D8695B4000000000000030D
+t1300665780
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/CCArray.h
+c000000004D8695B40000000000000BED
+t1300665780
+s3053
+i"ccCArray.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/CCFileUtils.h
+c000000004D8695B400000000000007E8
+t1300665780
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/CCProfiling.h
+c000000004D8695B400000000000006E9
+t1300665780
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/CGPointExtension.h
+c000000004D8695B40000000000001EAB
+t1300665780
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D8695B400000000000011A7
+t1300665780
+s4519
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/TGAlib.h
+c000000004D8695B40000000000000444
+t1300665780
+s1092
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/ccCArray.h
+c000000004D8695B400000000000030F3
+t1300665780
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/ccUtils.h
+c000000004D8695B40000000000000204
+t1300665780
+s516
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/uthash.h
+c000000004D8695B4000000000000FB13
+t1300665780
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/utlist.h
+c000000004D8695B40000000000009091
+t1300665780
+s37009
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/ccConfig.h
+c000000004D8695B40000000000002896
+t1300665780
+s10390
+i<Availability.h>
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/ccMacros.h
+c000000004D8695B40000000000001DFE
+t1300665780
+s7678
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/ccTypes.h
+c000000004D8695B400000000000016D2
+t1300665780
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/wibge/bounce/FirstBounce/libs/cocos2d/cocos2d.h
+c000000004D8695B400000000000010FF
+t1300665780
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/wibge/bounce/FirstBounce/main.m
+c000000004D8695B40000000000000168
+t1300665780
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch.gch
+t1300673215
+s8320616
+
+N/var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch.gch
+t1300673214
+s7726808
+
+NResources/Info.plist
+c000000004D8695B10000000000000515
+t1300665777
+s1301
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322462066#322462066#0(0"0(0#1#0"8652623488#0"0#
+
+CCodeSign /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+s322462067.640293
+e322462067.822248
+r1
+xCodeSign
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/FirstBounce.app322462067#322462067#0(0"0(0#0#68"/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app8696114560#640"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Anna Hentzel (N42ASH28HL)" --resource-rules=/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/ResourceRules.plist --entitlements /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
+CCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounceAppDelegate.o /Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+s322366015.410406
+e322366015.896482
+r1
+xCompileC
+xbuild/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounceAppDelegate.o
+x/Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@73"Compile /Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm322366015#322366015#0(0"0(0#0#65"/Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm8786247936#1717"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch -c /Users/wibge/bounce/FirstBounce/Classes/FirstBounceAppDelegate.mm -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounceAppDelegate.o0#
+
+CCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/GLES-Render.o /Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+s322366015.896577
+e322366016.212850
+r1
+xCompileC
+xbuild/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/GLES-Render.o
+x/Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@62"Compile /Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm322366015#322366016#0(0"0(0#0#54"/Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm8937676832#1695"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch -c /Users/wibge/bounce/FirstBounce/Classes/GLES-Render.mm -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/GLES-Render.o0#
+
+CCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/HelloWorldScene.o /Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+s322462066.703550
+e322462067.170050
+r1
+xCompileC
+xbuild/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/HelloWorldScene.o
+x/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+o/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm:310: warning: incomplete implementation of class 'HelloWorld'
+o/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm:310: warning: method definition for '-addNewSpriteWithCoords:' not found
+lSLF07#2@66"Compile /Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm322462066#322462067#0(253"/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm:310: warning: incomplete implementation of class 'HelloWorld'/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm:310: warning: method definition for '-addNewSpriteWithCoords:' not found2(22@47"Incomplete implementation of class 'HelloWorld'322462067#0#121#0(6@58"/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm322462063#310#0#310#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-addNewSpriteWithCoords:' not found322462067#121#132#0(6@58"/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm322462063#310#0#310#0#35"method definition for '*' not found0(0#0#58"/Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm8712128608#1533"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch -c /Users/wibge/bounce/FirstBounce/Classes/HelloWorldScene.mm -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/HelloWorldScene.o0#
+
+CCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/RootViewController.o /Users/wibge/bounce/FirstBounce/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s322366016.034656
+e322366016.185459
+r1
+xCompileC
+xbuild/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/RootViewController.o
+x/Users/wibge/bounce/FirstBounce/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Users/wibge/bounce/FirstBounce/Classes/RootViewController.m322366016#322366016#0(0"0(0#0#60"/Users/wibge/bounce/FirstBounce/Classes/RootViewController.m8930377984#1687"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch -c /Users/wibge/bounce/FirstBounce/Classes/RootViewController.m -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/main.o /Users/wibge/bounce/FirstBounce/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s322366015.408477
+e322366015.481227
+r1
+xCompileC
+xbuild/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/main.o
+x/Users/wibge/bounce/FirstBounce/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@46"Compile /Users/wibge/bounce/FirstBounce/main.m322366015#322366015#0(0"0(0#0#38"/Users/wibge/bounce/FirstBounce/main.m8786725376#1651"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch -c /Users/wibge/bounce/FirstBounce/main.m -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/main.o0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Babyball.png Resources/Babyball.png
+s322460012.316373
+e322460012.593953
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Babyball.png
+xResources/Babyball.png
+lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Babyball.png Resources/Babyball.png322460012#322460012#0(0"0(0#0#54"/Users/wibge/bounce/FirstBounce/Resources/Babyball.png8679436832#557"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Babyball.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Babyball.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Default.png Resources/Default.png
+s322366013.746230
+e322366014.406097
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Default.png
+xResources/Default.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Default.png Resources/Default.png322366013#322366014#0(0"0(0#0#53"/Users/wibge/bounce/FirstBounce/Resources/Default.png8802492192#725"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Default.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Default.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-72.png Resources/Icon-72.png
+s322366014.407365
+e322366014.455994
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon-72.png Resources/Icon-72.png322366014#322366014#0(0"0(0#0#53"/Users/wibge/bounce/FirstBounce/Resources/Icon-72.png8898603680#725"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon-72.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-72.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s322366014.406194
+e322366014.438796
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@94"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png Resources/Icon-Small-50.png322366014#322366014#0(0"0(0#0#59"/Users/wibge/bounce/FirstBounce/Resources/Icon-Small-50.png8914895456#737"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon-Small-50.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small.png Resources/Icon-Small.png
+s322366014.382983
+e322366014.407295
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon-Small.png Resources/Icon-Small.png322366014#322366014#0(0"0(0#0#56"/Users/wibge/bounce/FirstBounce/Resources/Icon-Small.png8924091136#731"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon-Small.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s322366014.354098
+e322366014.382886
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@94"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png Resources/Icon-Small@2x.png322366014#322366014#0(0"0(0#0#59"/Users/wibge/bounce/FirstBounce/Resources/Icon-Small@2x.png8930800928#737"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon-Small@2x.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon.png Resources/Icon.png
+s322366014.185654
+e322366014.267775
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon.png
+xResources/Icon.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon.png Resources/Icon.png322366014#322366014#0(0"0(0#0#50"/Users/wibge/bounce/FirstBounce/Resources/Icon.png8783324512#719"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon@2x.png Resources/Icon@2x.png
+s322366014.267858
+e322366014.353996
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/Icon@2x.png Resources/Icon@2x.png322366014#322366014#0(0"0(0#0#53"/Users/wibge/bounce/FirstBounce/Resources/Icon@2x.png8937301696#725"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/Icon@2x.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/bigball.png Resources/bigball.png
+s322460012.328148
+e322460013.012483
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/bigball.png
+xResources/bigball.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/bigball.png Resources/bigball.png322460012#322460013#0(0"0(0#0#53"/Users/wibge/bounce/FirstBounce/Resources/bigball.png8679034304#555"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/bigball.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/bigball.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blocks.png Resources/blocks.png
+s322366013.744532
+e322366014.133162
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blocks.png
+xResources/blocks.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/blocks.png Resources/blocks.png322366013#322366014#0(0"0(0#0#52"/Users/wibge/bounce/FirstBounce/Resources/blocks.png8937619360#723"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/blocks.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/blocks.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/fps_images.png Resources/fps_images.png
+s322366014.133249
+e322366014.185566
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/fps_images.png Resources/fps_images.png322366014#322366014#0(0"0(0#0#56"/Users/wibge/bounce/FirstBounce/Resources/fps_images.png8599167744#731"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/fps_images.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/fps_images.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/mediumball.png Resources/mediumball.png
+s322460012.594044
+e322460012.721463
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/mediumball.png
+xResources/mediumball.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/mediumball.png Resources/mediumball.png322460012#322460012#0(0"0(0#0#56"/Users/wibge/bounce/FirstBounce/Resources/mediumball.png8703799328#561"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/mediumball.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/mediumball.png0#
+
+CCopyPNGFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/seeker.png Resources/seeker.png
+s322366014.439810
+e322366014.478867
+r1
+xCopyPNGFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/seeker.png
+xResources/seeker.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/FirstBounce.app/seeker.png Resources/seeker.png322366014#322366014#0(0"0(0#0#52"/Users/wibge/bounce/FirstBounce/Resources/seeker.png8878927232#723"    cd /Users/wibge/bounce/FirstBounce    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/wibge/bounce/FirstBounce/Resources/seeker.png /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/seeker.png0#
+
+CCpResource build/Debug-iphoneos/FirstBounce.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s322366013.664233
+e322366013.744270
+r1
+xCpResource
+xbuild/Debug-iphoneos/FirstBounce.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist322366013#322366013#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8599442880#654"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
+CCpResource build/Debug-iphoneos/FirstBounce.app/blueball.jpeg Resources/blueball.jpeg
+s322459764.617877
+e322459764.630651
+r1
+xCpResource
+xbuild/Debug-iphoneos/FirstBounce.app/blueball.jpeg
+xResources/blueball.jpeg
+lSLF07#2@28"Copy Resources/blueball.jpeg322459764#322459764#0(0"0(0#0#55"/Users/wibge/bounce/FirstBounce/Resources/blueball.jpeg8678355936#450"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wibge/bounce/FirstBounce/Resources/blueball.jpeg /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
+CCpResource build/Debug-iphoneos/FirstBounce.app/greenandwhiteball.jpeg Resources/greenandwhiteball.jpeg
+s322459764.594279
+e322459764.630857
+r1
+xCpResource
+xbuild/Debug-iphoneos/FirstBounce.app/greenandwhiteball.jpeg
+xResources/greenandwhiteball.jpeg
+lSLF07#2@37"Copy Resources/greenandwhiteball.jpeg322459764#322459764#0(0"0(0#0#64"/Users/wibge/bounce/FirstBounce/Resources/greenandwhiteball.jpeg30962749956620352#459"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wibge/bounce/FirstBounce/Resources/greenandwhiteball.jpeg /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
+CCpResource build/Debug-iphoneos/FirstBounce.app/iTunesArtwork Resources/iTunesArtwork
+s322366014.438879
+e322366014.445054
+r1
+xCpResource
+xbuild/Debug-iphoneos/FirstBounce.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork322366014#322366014#0(0"0(0#0#55"/Users/wibge/bounce/FirstBounce/Resources/iTunesArtwork8885673280#620"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wibge/bounce/FirstBounce/Resources/iTunesArtwork /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
+CGenerateDSYMFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app.dSYM /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce
+s322462067.490162
+e322462067.637484
+r1
+xGenerateDSYMFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app.dSYM
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/FirstBounce.app.dSYM build/Debug-iphoneos/FirstBounce.app/FirstBounce322462067#322462067#0(0"0(0#0#80"/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce8705151296#353"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce -o /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app.dSYM0#
+
+CLd /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce normal armv6
+s322462067.170129
+e322462067.490062
+r1
+xLd
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce
+xnormal
+xarmv6
+lSLF07#2@85"Link /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce322462067#322462067#0(0"0(0#0#0"8705133440#962"    cd /Users/wibge/bounce/FirstBounce    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-g++-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -filelist /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/Objects-normal/armv6/FirstBounce.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/FirstBounce0#
+
+CProcessInfoPlistFile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Info.plist Resources/Info.plist
+s322366013.666396
+e322366013.713511
+r1
+xProcessInfoPlistFile
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist322366013#322366013#0(0"0(0#0#52"/Users/wibge/bounce/FirstBounce/Resources/Info.plist8930493440#718"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/ResourceRules.plist -o /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/Info.plist0#
+
+CProcessPCH /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch.gch FirstBounce_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s322366014.478989
+e322366015.193911
+r1
+xProcessPCH
+x/var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch.gch
+xFirstBounce_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@33"Precompile FirstBounce_Prefix.pch322366014#322366015#0(0"0(0#0#54"/Users/wibge/bounce/FirstBounce/FirstBounce_Prefix.pch8873509568#1552"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/FirstBounce_Prefix.pch -o /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-gbzvrfhuecpptvctawvhbdcupnlr/FirstBounce_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch.gch FirstBounce_Prefix.pch normal armv6 objective-c++ com.apple.compilers.llvmgcc42
+s322366014.479931
+e322366015.408211
+r1
+xProcessPCH++
+x/var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch.gch
+xFirstBounce_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@33"Precompile FirstBounce_Prefix.pch322366014#322366015#0(0"0(0#0#54"/Users/wibge/bounce/FirstBounce/FirstBounce_Prefix.pch8828182592#1573"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.hmap -Wall -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources/armv6 -I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/FirstBounce_Prefix.pch -o /var/folders/Di/DiHY36NgHfe++23UJvs-mk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstBounce_Prefix-fzyqnsagmhelrwdekwrckovotjyt/FirstBounce_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision" /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision
+s322366017.629559
+e322366017.662186
+r1
+xProcessProductPackaging
+x/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision" build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision322366017#322366017#0(0"0(0#0#93"/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision8923226016#583"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    <com.apple.tools.product-pkg-utility> "/Users/wibge/Library/MobileDevice/Provisioning Profiles/0369D372-63D5-411B-90B9-597A3ADA4470.mobileprovision" -o /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent
+s322366017.671460
+e322366017.687886
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent322366017#322366017#0(0"0(0#0#106"/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent8826564256#600"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/FirstBounce.build/FirstBounce.xcent0#
+
+CTouch /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+s322462067.637675
+e322462067.640157
+r1
+xTouch
+x/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app
+lSLF07#2@74"Touch /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app322462067#322462067#0(0"0(0#0#0"8697268224#254"    cd /Users/wibge/bounce/FirstBounce    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/FirstBounce.app0#
+
