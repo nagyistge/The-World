@@ -3303,6 +3303,749 @@ t1300665780
 s1313
 i<UIKit/UIKit.h>
 
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/Debug-iphoneos/libcocos2d libraries.a
+t1300824498
+s5190120
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+t1300824499
+s24892
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1300824499
+s7676
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+t1300824499
+s10232
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+t1300824499
+s29836
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+t1300824499
+s18068
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+t1300824499
+s35464
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+t1300824499
+s23388
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+t1300824499
+s56540
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+t1300824499
+s69884
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+t1300824499
+s16296
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t1300824499
+s4432
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t1300824499
+s4376
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o
+t1300824499
+s11376
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+t1300824499
+s89164
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+t1300824499
+s23568
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BlockAllocator.o
+t1300824499
+s11284
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Body.o
+t1300824499
+s64644
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BroadPhase.o
+t1300824499
+s16208
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CircleShape.o
+t1300824499
+s20192
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollideCircle.o
+t1300824499
+s19252
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollidePolygon.o
+t1300824499
+s26116
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Collision.o
+t1300824499
+s25276
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2ContactManager.o
+t1300824499
+s64144
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Distance.o
+t1300824499
+s38204
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2DynamicTree.o
+t1300824499
+s25628
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Math.o
+t1300824499
+s11184
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2PolygonShape.o
+t1300824499
+s38520
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Settings.o
+t1300824499
+s2752
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2StackAllocator.o
+t1300824499
+s8140
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2TimeOfImpact.o
+t1300824499
+s37144
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList
+c000000004D8901B30000000000004420
+t1300824499
+s17440
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+t1300824499
+s2652
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.cpp
+c000000004D8901B50000000000000B6E
+t1300824501
+s2926
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<new>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004D8901B50000000000000982
+t1300824501
+s2434
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp
+c000000004D8901B500000000000029EC
+t1300824501
+s10732
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<new>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004D8901B50000000000000F38
+t1300824501
+s3896
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2Shape.h
+c000000004D8901B50000000000000CB9
+t1300824501
+s3257
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp
+c000000004D8901B50000000000000BE6
+t1300824501
+s3046
+i<Box2D/Collision/b2BroadPhase.h>
+i<cstring>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2BroadPhase.h
+c000000004D8901B50000000000001843
+t1300824501
+s6211
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp
+c000000004D8901B5000000000000110B
+t1300824501
+s4363
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp
+c000000004D8901B50000000000002113
+t1300824501
+s8467
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Collision.cpp
+c000000004D8901B500000000000017C0
+t1300824501
+s6080
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Collision.h
+c000000004D8901B50000000000001FA1
+t1300824501
+s8097
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Distance.cpp
+c000000004D8901B500000000000030D1
+t1300824501
+s12497
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Distance.h
+c000000004D8901B50000000000000EB5
+t1300824501
+s3765
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2DynamicTree.cpp
+c000000004D8901B50000000000001FF1
+t1300824501
+s8177
+i<Box2D/Collision/b2DynamicTree.h>
+i<cstring>
+i<cfloat>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2DynamicTree.h
+c000000004D8901B50000000000001C14
+t1300824501
+s7188
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.cpp
+c000000004D8901B50000000000002D92
+t1300824501
+s11666
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<cstdio>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.h
+c000000004D8901B5000000000000075D
+t1300824501
+s1885
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+i<climits>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2BlockAllocator.cpp
+c000000004D8901B500000000000012CE
+t1300824501
+s4814
+i<Box2D/Common/b2BlockAllocator.h>
+i<cstdlib>
+i<climits>
+i<cstring>
+i<memory>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2BlockAllocator.h
+c000000004D8901B500000000000006F3
+t1300824501
+s1779
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Math.cpp
+c000000004D8901B50000000000000794
+t1300824501
+s1940
+i<Box2D/Common/b2Math.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Math.h
+c000000004D8901B500000000000038D1
+t1300824501
+s14545
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Settings.cpp
+c000000004D8901B5000000000000047B
+t1300824501
+s1147
+i<Box2D/Common/b2Settings.h>
+i<cstdlib>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Settings.h
+c000000004D8901B5000000000000149D
+t1300824501
+s5277
+i<cassert>
+i<cmath>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp
+c000000004D8901B50000000000000804
+t1300824501
+s2052
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Common/b2Math.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2StackAllocator.h
+c000000004D8901B5000000000000068B
+t1300824501
+s1675
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004D8901B50000000000001A04
+t1300824501
+s6660
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/Joints/b2Joint.h
+c000000004D8901B500000000000015B0
+t1300824501
+s5552
+i<Box2D/Common/b2Math.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp
+c000000004D8901B5000000000000272A
+t1300824501
+s10026
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2Body.h
+c000000004D8901B50000000000005283
+t1300824501
+s21123
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.cpp
+c000000004D8901B500000000000017B0
+t1300824501
+s6064
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.h
+c000000004D8901B50000000000000603
+t1300824501
+s1539
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2Fixture.h
+c000000004D8901B5000000000000218D
+t1300824501
+s8589
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2World.h
+c000000004D8901B50000000000002229
+t1300824501
+s8745
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004D8901B50000000000001E03
+t1300824501
+s7683
+i<Box2D/Common/b2Settings.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabel.h
+c000000004D8901B600000000000006FD
+t1300824502
+s1789
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabel.m
+c000000004D8901B600000000000019F2
+t1300824502
+s6642
+i"FontLabel.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabelStringDrawing.h
+c000000004D8901B60000000000000F44
+t1300824502
+s3908
+i<UIKit/UIKit.h>
+i"ZAttributedString.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m
+c000000004D8901B6000000000000840D
+t1300824502
+s33805
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontManager.h
+c000000004D8901B60000000000000CEB
+t1300824502
+s3307
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontManager.m
+c000000004D8901B60000000000000D91
+t1300824502
+s3473
+i"FontManager.h"
+i"ZFont.h"
+i"CCConfiguration.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZAttributedString.h
+c000000004D8901B60000000000000C27
+t1300824502
+s3111
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZAttributedString.m
+c000000004D8901B6000000000000554F
+t1300824502
+s21839
+i"ZAttributedString.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZAttributedStringPrivate.h
+c000000004D8901B600000000000002D2
+t1300824502
+s722
+i<Foundation/Foundation.h>
+i"ZAttributedString.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZFont.h
+c000000004D8901B60000000000000664
+t1300824502
+s1636
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZFont.m
+c000000004D8901B60000000000001335
+t1300824502
+s4917
+i"ZFont.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/CDataScanner.h
+c000000004D8901B60000000000000946
+t1300824502
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/CDataScanner.m
+c000000004D8901B6000000000000165F
+t1300824502
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004D8901B60000000000000598
+t1300824502
+s1432
+i"CDataScanner.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004D8901B600000000000009D4
+t1300824502
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c000000004D8901B60000000000000565
+t1300824502
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c000000004D8901B6000000000000071C
+t1300824502
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004D8901B60000000000000583
+t1300824502
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004D8901B600000000000005FE
+t1300824502
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.h
+c000000004D8901B60000000000000641
+t1300824502
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+c000000004D8901B60000000000000D50
+t1300824502
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.h
+c000000004D8901B60000000000000766
+t1300824502
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.m
+c000000004D8901B600000000000009C2
+t1300824502
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.h
+c000000004D8901B60000000000000700
+t1300824502
+s1792
+i"CDataScanner.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m
+c000000004D8901B600000000000038D4
+t1300824502
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.h
+c000000004D8901B6000000000000066A
+t1300824502
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m
+c000000004D8901B600000000000016F0
+t1300824502
+s5872
+i"CJSONSerializer.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/CCConfiguration.h
+c000000004D8901B60000000000000D36
+t1300824502
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/CCDirector.h
+c000000004D8901B600000000000025C4
+t1300824502
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/CCProtocols.h
+c000000004D8901B60000000000000F9A
+t1300824502
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/CCTexture2D.h
+c000000004D8901B60000000000002C9A
+t1300824502
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/CCGL.h
+c000000004D8901B60000000000000BF8
+t1300824502
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/CCNS.h
+c000000004D8901B60000000000000965
+t1300824502
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D8901B60000000000000B8C
+t1300824502
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D8901B60000000000002B53
+t1300824502
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D8901B60000000000001B69
+t1300824502
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D8901B6000000000000083A
+t1300824502
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D8901B6000000000000030D
+t1300824502
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/ccConfig.h
+c000000004D8901B60000000000002896
+t1300824502
+s10390
+i<Availability.h>
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/ccMacros.h
+c000000004D8901B60000000000001DFE
+t1300824502
+s7678
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocos2d/ccTypes.h
+c000000004D8901B600000000000016D2
+t1300824502
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerPost.h
+c000000004D8901B600000000000010D9
+t1300824502
+s4313
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerPost.m
+c000000004D8901B600000000000027FC
+t1300824502
+s10236
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerRequest.h
+c000000004D8901B600000000000010E4
+t1300824502
+s4324
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerRequest.m
+c000000004D8901B60000000000001DA8
+t1300824502
+s7592
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/cocoslive.h
+c000000004D8901B600000000000005C5
+t1300824502
+s1477
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/cocoslive.m
+c000000004D8901B60000000000000521
+t1300824502
+s1313
+i<UIKit/UIKit.h>
+
 CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies322462066#322462066#0(0"0(0#1#0"8671099968#0"0#
@@ -4204,6 +4947,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@69"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/CDataScanner.m322365990#322365990#0(0"0(0#0#61"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/CDataScanner.m8911666048#1516"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/CDataScanner.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365990.330961
 e322365990.582212
@@ -4216,6 +4962,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@91"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m322365990#322365990#0(0"0(0#0#83"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m8893997696#1549"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CGPointExtension.o" /Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/CGPointExtension.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322366012.827676
@@ -4243,6 +4992,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@79"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.m322365990#322365991#0(0"0(0#0#71"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.m8654233152#1531"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365991.052230
 e322365991.453738
@@ -4255,6 +5007,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@74"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m322365991#322365991#0(0"0(0#0#66"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m8766084448#1521"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365991.081714
@@ -4269,6 +5024,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@77"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m322365991#322365991#0(0"0(0#0#69"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m8801634816#1527"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerPost.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365991.453834
 e322365992.052041
@@ -4282,6 +5040,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@74"Compile /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerPost.m322365991#322365992#0(0"0(0#0#66"/Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerPost.m8930905120#1526"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerPost.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerPost.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerRequest.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365992.035437
 e322365992.512675
@@ -4294,6 +5055,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@77"Compile /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerRequest.m322365992#322365992#0(0"0(0#0#69"/Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerRequest.m8604537952#1532"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/cocoslive/CLScoreServerRequest.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/CLScoreServerRequest.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" /Users/wibge/bounce/FirstBounce/libs/CocosDenshion/CocosDenshion.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365999.051459
@@ -4347,6 +5111,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@66"Compile /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabel.m322365986#322365989#0(0"0(0#0#58"/Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabel.m8927758016#1510"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabel.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabel.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365986.927469
 e322365989.788189
@@ -4360,6 +5127,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@79"Compile /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m322365986#322365989#0(0"0(0#0#71"/Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m8925185024#1536"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontLabelStringDrawing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365989.688629
 e322365990.330803
@@ -4372,6 +5142,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@68"Compile /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontManager.m322365989#322365990#0(0"0(0#0#60"/Users/wibge/bounce/FirstBounce/libs/FontLabel/FontManager.m8928499840#1514"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/FontLabel/FontManager.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/FontManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/MacGLView.o" /Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/Mac/MacGLView.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322366012.292663
@@ -4399,6 +5172,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@93"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m322365990#322365990#0(0"0(0#0#85"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m8632072672#1553"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365990.582315
 e322365990.796821
@@ -4412,6 +5188,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@95"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m322365990#322365990#0(0"0(0#0#87"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m8851386464#1557"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o" /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365990.796930
 e322365991.081617
@@ -4424,6 +5203,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@88"Compile /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m322365990#322365991#0(0"0(0#0#80"/Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m8743308288#1543"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" /Users/wibge/bounce/FirstBounce/libs/CocosDenshion/SimpleAudioEngine.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365999.473536
@@ -4477,6 +5259,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@74"Compile /Users/wibge/bounce/FirstBounce/libs/FontLabel/ZAttributedString.m322365991#322365992#0(0"0(0#0#66"/Users/wibge/bounce/FirstBounce/libs/FontLabel/ZAttributedString.m8932162752#1526"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/FontLabel/ZAttributedString.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZAttributedString.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" /Users/wibge/bounce/FirstBounce/libs/FontLabel/ZFont.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322365989.788290
 e322365990.215381
@@ -4489,6 +5274,9 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@62"Compile /Users/wibge/bounce/FirstBounce/libs/FontLabel/ZFont.m322365989#322365990#0(0"0(0#0#54"/Users/wibge/bounce/FirstBounce/libs/FontLabel/ZFont.m8885680128#1502"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/FontLabel/ZFont.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/FontLabel/ZFont.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZipUtils.o" /Users/wibge/bounce/FirstBounce/libs/cocos2d/Support/ZipUtils.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s322366013.124591
@@ -4516,6 +5304,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@78"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2BlockAllocator.cpp322365993#322365994#0(0"0(0#0#70"/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2BlockAllocator.cpp8602148384#1512"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2BlockAllocator.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BlockAllocator.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BlockAllocator.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2BlockAllocator.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Body.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365994.485955
 e322365995.219036
@@ -4529,6 +5320,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@70"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp322365994#322365995#0(0"0(0#0#62"/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp8884861440#1494"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Body.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Body.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2Body.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BroadPhase.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365992.378865
 e322365993.115555
@@ -4541,6 +5335,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@77"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp322365992#322365993#0(0"0(0#0#69"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp8880903680#1507"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BroadPhase.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2BroadPhase.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2BroadPhase.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CircleContact.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Contacts/b2CircleContact.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365996.069854
@@ -4568,6 +5365,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@85"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.cpp322365993#322365993#0(0"0(0#0#77"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.cpp8801558080#1516"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CircleShape.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CircleShape.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2CircleShape.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollideCircle.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365992.512808
 e322365992.851797
@@ -4580,6 +5380,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@80"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp322365992#322365992#0(0"0(0#0#72"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp8868052448#1513"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollideCircle.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollideCircle.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2CollideCircle.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollidePolygon.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365992.852029
@@ -4594,6 +5397,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@81"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp322365992#322365993#0(0"0(0#0#73"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp8787143072#1515"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollidePolygon.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2CollidePolygon.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2CollidePolygon.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Collision.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Collision.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365993.083421
 e322365993.356694
@@ -4606,6 +5412,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@76"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Collision.cpp322365993#322365993#0(0"0(0#0#68"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Collision.cpp8715183328#1505"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Collision.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Collision.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Collision.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Collision.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Contact.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Contacts/b2Contact.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365996.313843
@@ -4633,6 +5442,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@80"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.cpp322365994#322365995#0(0"0(0#0#72"/Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.cpp8913425504#1514"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2ContactManager.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2ContactManager.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Dynamics/b2ContactManager.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2ContactSolver.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Contacts/b2ContactSolver.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365996.391873
 e322365996.824552
@@ -4659,6 +5471,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@75"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Distance.cpp322365993#322365993#0(0"0(0#0#67"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Distance.cpp8878889408#1503"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2Distance.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Distance.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Distance.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2Distance.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2DistanceJoint.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2DistanceJoint.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365997.079957
 e322365997.397953
@@ -4684,6 +5499,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@78"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2DynamicTree.cpp322365993#322365993#0(0"0(0#0#70"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2DynamicTree.cpp8932239424#1509"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2DynamicTree.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2DynamicTree.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2DynamicTree.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2DynamicTree.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Fixture.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/b2Fixture.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365995.219334
@@ -4776,6 +5594,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@68"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Math.cpp322365994#322365994#0(0"0(0#0#60"/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Math.cpp8927159168#1492"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Math.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Math.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Math.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Math.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2MouseJoint.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2MouseJoint.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365997.825202
 e322365998.097033
@@ -4827,6 +5648,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@86"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp322365993#322365994#0(0"0(0#0#78"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp8773920800#1518"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2PolygonShape.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2PolygonShape.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2PrismaticJoint.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365998.072654
@@ -4880,6 +5704,9 @@ xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@72"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Settings.cpp322365994#322365994#0(0"0(0#0#64"/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Settings.cpp8880431296#1500"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2Settings.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Settings.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2Settings.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2Settings.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2StackAllocator.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365994.372009
 e322365994.594882
@@ -4892,6 +5719,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@78"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp322365994#322365994#0(0"0(0#0#70"/Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp8923790400#1512"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2StackAllocator.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2StackAllocator.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Common/b2StackAllocator.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2TOISolver.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Contacts/b2TOISolver.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365996.900623
@@ -4918,6 +5748,9 @@ xarmv6
 xc++
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@79"Compile /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.cpp322365993#322365993#0(0"0(0#0#71"/Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.cpp8924640256#1511"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.cpp -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2TimeOfImpact.o"0#
+
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2TimeOfImpact.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/Box2D/Collision/b2TimeOfImpact.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
+r0
 
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/b2WeldJoint.o" /Users/wibge/bounce/FirstBounce/libs/Box2D/Dynamics/Joints/b2WeldJoint.cpp normal armv6 c++ com.apple.compilers.llvmgcc42
 s322365998.436693
@@ -5010,6 +5843,9 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@66"Compile /Users/wibge/bounce/FirstBounce/libs/cocoslive/cocoslive.m322365992#322365992#0(0"0(0#0#58"/Users/wibge/bounce/FirstBounce/libs/cocoslive/cocoslive.m8931026720#1510"    cd /Users/wibge/bounce/FirstBounce    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries.hmap" -F/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -I/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/include -Ilibs "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/wibge/bounce/FirstBounce/libs/cocoslive/cocoslive.m -o "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o"0#
 
+CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" /Users/wibge/games/The-World/AngryBalls/FirstBounce/libs/cocoslive/cocoslive.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
 CCompileC "build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/glu.o" /Users/wibge/bounce/FirstBounce/libs/cocos2d/Platforms/iOS/glu.c normal armv6 c com.apple.compilers.llvmgcc42
 s322366012.115831
 e322366012.226102
@@ -5038,4 +5874,7 @@ o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/
 o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/MacGLView.o has no symbols
 o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProfiling.o has no symbols
 lSLF07#2@66"Libtool "build/Debug-iphoneos/libcocos2d libraries.a" normal armv6322366013#322366013#0(1304"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCDirectorMac.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCEventDispatcher.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/MacGLView.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProfiling.o has no symbols0(0#0#0"8777156640#1067"    cd /Users/wibge/bounce/FirstBounce    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/usr/local/android-sdk-mac_86"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos -filelist "/Users/wibge/bounce/FirstBounce/build/FirstBounce.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList" -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework OpenAL -framework OpenGLES -framework QuartzCore /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib -o "/Users/wibge/bounce/FirstBounce/build/Debug-iphoneos/libcocos2d libraries.a"0#
+
+CLibtool "/Users/wibge/games/The-World/AngryBalls/FirstBounce/build/Debug-iphoneos/libcocos2d libraries.a" normal armv6
+r0
 

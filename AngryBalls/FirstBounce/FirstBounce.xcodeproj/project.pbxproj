@@ -38,6 +38,9 @@
 		507ED66211C638E2002ED3FC /* CocosDenshion.m in Sources */ = {isa = PBXBuildFile; fileRef = 507ED65911C638E2002ED3FC /* CocosDenshion.m */; };
 		507ED66311C638E2002ED3FC /* SimpleAudioEngine.h in Headers */ = {isa = PBXBuildFile; fileRef = 507ED65A11C638E2002ED3FC /* SimpleAudioEngine.h */; };
 		507ED66411C638E2002ED3FC /* SimpleAudioEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 507ED65B11C638E2002ED3FC /* SimpleAudioEngine.m */; };
+		50AB3E90133B0B4300F85B03 /* AngryBallSprite.mm in Sources */ = {isa = PBXBuildFile; fileRef = 50AB3E8F133B0B4300F85B03 /* AngryBallSprite.mm */; };
+		50AB3EB2133B119900F85B03 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 50AB3EB1133B119900F85B03 /* JSONKit.m */; };
+		50AB3F0F133B17DC00F85B03 /* balls.json in Resources */ = {isa = PBXBuildFile; fileRef = 50AB3E91133B0D8200F85B03 /* balls.json */; };
 		50B1F67511130E43001483A3 /* Box2D.h in Headers */ = {isa = PBXBuildFile; fileRef = 50B1F62611130E43001483A3 /* Box2D.h */; };
 		50B1F67611130E43001483A3 /* b2BroadPhase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50B1F62811130E43001483A3 /* b2BroadPhase.cpp */; };
 		50B1F67711130E43001483A3 /* b2BroadPhase.h in Headers */ = {isa = PBXBuildFile; fileRef = 50B1F62911130E43001483A3 /* b2BroadPhase.h */; };
@@ -368,6 +371,11 @@
 		507ED65911C638E2002ED3FC /* CocosDenshion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CocosDenshion.m; sourceTree = "<group>"; };
 		507ED65A11C638E2002ED3FC /* SimpleAudioEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleAudioEngine.h; sourceTree = "<group>"; };
 		507ED65B11C638E2002ED3FC /* SimpleAudioEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleAudioEngine.m; sourceTree = "<group>"; };
+		50AB3E8E133B0B4300F85B03 /* AngryBallSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AngryBallSprite.h; sourceTree = "<group>"; };
+		50AB3E8F133B0B4300F85B03 /* AngryBallSprite.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AngryBallSprite.mm; sourceTree = "<group>"; };
+		50AB3E91133B0D8200F85B03 /* balls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = balls.json; sourceTree = "<group>"; };
+		50AB3EB0133B119900F85B03 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
+		50AB3EB1133B119900F85B03 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
 		50B1F62611130E43001483A3 /* Box2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Box2D.h; sourceTree = "<group>"; };
 		50B1F62811130E43001483A3 /* b2BroadPhase.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = b2BroadPhase.cpp; sourceTree = "<group>"; };
 		50B1F62911130E43001483A3 /* b2BroadPhase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = b2BroadPhase.h; sourceTree = "<group>"; };
@@ -709,6 +717,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				50AB3EAE133B119900F85B03 /* lib */,
 				504DFC7310AF1758006D82FE /* LICENSE.cocos2d */,
 				504DFC7410AF1758006D82FE /* LICENSE.cocosdenshion */,
 				E0C5506C11FA3ABC00B9E4CB /* LICENSE.box2d */,
@@ -759,6 +768,8 @@
 				E0F81063120A17DF005866B8 /* RootViewController.m */,
 				1F3B9A2C0EF2145700286867 /* FirstBounceAppDelegate.h */,
 				1F3B9A2B0EF2145700286867 /* FirstBounceAppDelegate.mm */,
+				50AB3E8E133B0B4300F85B03 /* AngryBallSprite.h */,
+				50AB3E8F133B0B4300F85B03 /* AngryBallSprite.mm */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -805,6 +816,23 @@
 			);
 			name = CocosDenshion;
 			path = libs/CocosDenshion;
+			sourceTree = "<group>";
+		};
+		50AB3EAE133B119900F85B03 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				50AB3EAF133B119900F85B03 /* JSONKit */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		50AB3EAF133B119900F85B03 /* JSONKit */ = {
+			isa = PBXGroup;
+			children = (
+				50AB3EB0133B119900F85B03 /* JSONKit.h */,
+				50AB3EB1133B119900F85B03 /* JSONKit.m */,
+			);
+			path = JSONKit;
 			sourceTree = "<group>";
 		};
 		50B1F62511130E43001483A3 /* Box2D */ = {
@@ -1014,6 +1042,7 @@
 				50F4144510692EE7002A0D5E /* fps_images.png */,
 				50F4144610692EE7002A0D5E /* Icon.png */,
 				50F4144710692EE7002A0D5E /* Info.plist */,
+				50AB3E91133B0D8200F85B03 /* balls.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -1466,6 +1495,7 @@
 				50DC334D13385944009C3029 /* Babyball.png in Resources */,
 				50DC334E13385944009C3029 /* bigball.png in Resources */,
 				50DC335013385955009C3029 /* mediumball.png in Resources */,
+				50AB3F0F133B17DC00F85B03 /* balls.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1481,6 +1511,8 @@
 				506EDC31102F528A00A389B3 /* HelloWorldScene.mm in Sources */,
 				50F4143910692D7D002A0D5E /* GLES-Render.mm in Sources */,
 				E0F81064120A17DF005866B8 /* RootViewController.m in Sources */,
+				50AB3E90133B0B4300F85B03 /* AngryBallSprite.mm in Sources */,
+				50AB3EB2133B119900F85B03 /* JSONKit.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

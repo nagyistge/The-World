@@ -10,15 +10,13 @@
 // Import the interfaces
 #import "HelloWorldScene.h"
 #import "CCTouchDispatcher.h"
-
-b2Body *_seeker1;
-b2Body *_cocosGuy;
+#import "JSONKit.h"
+#import "AngryBallSprite.h"
 
 //Pixel to metres ratio. Box2D uses metres as the unit for measurement.
 //This ratio defines how many pixels correspond to 1 Box2D "metre"
 //Box2D is optimized for objects of 1x1 metre therefore it makes sense
 //to define the ratio so that your most common object type is 1x1 metre.
-#define PTM_RATIO 32
 
 // enums that will be used as tags
 enum {
@@ -30,6 +28,7 @@ enum {
 
 // HelloWorld implementation
 @implementation HelloWorld
+@synthesize mainBall;
 
 +(id) scene
 {
@@ -115,26 +114,28 @@ enum {
 		groundBox.SetAsEdge(b2Vec2(screenSize.width/PTM_RATIO,screenSize.height/PTM_RATIO), b2Vec2(screenSize.width/PTM_RATIO,0));
 		groundBody->CreateFixture(&groundBox,0);
     
-       
-		
-		
-		//Set up sprite
-		_seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 100)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
-    _seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 110)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
-    _seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 120)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
-    _seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 130)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
-    _seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 140)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
-    _seeker1 = [self spriteWithFile:@"seeker.png" andPoint:ccp(120, 150)];
-    [self addChild:(CCSprite*)_seeker1->GetUserData()];
     
+		NSString* file = [NSString stringWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"balls" 
+                                                                                        ofType:@"json"]];
+    NSLog(@"file %@", file);
+    
+    NSDictionary* dict = [file objectFromJSONString];
+    NSArray * balls = [dict objectForKey:@"balls"];
+    
+    for (NSDictionary* ball in balls) {
+      AngryBallSprite * sprite = [[[AngryBallSprite alloc] initWithDictionary:ball andWorld:world] autorelease];
+      [self addChild:sprite];
+      
+      if (sprite.inPlay) {
+        self.mainBall = sprite;
+      }
+    }
+    
+		
+	   /* 
     // do the same for our cocos2d guy, reusing the app icon as its image
     _cocosGuy = [self spriteWithFile:@"mediumball.png" andPoint:ccp(200,300)];
-    [self addChild:(CCSprite*)_cocosGuy->GetUserData()];
+    [self addChild:(CCSprite*)_cocosGuy->GetUserData()];*/
     
 		/*CCSpriteBatchNode *batch = [CCSpriteBatchNode batchNodeWithFile:@"blocks.png" capacity:150];
 		[self addChild:batch z:0 tag:kTagBatchNode];
@@ -179,31 +180,6 @@ enum {
 {
   CCSprite* sprite = [CCSprite spriteWithFile:filePath];
   sprite.position = p;
-  int width = [sprite boundingBox].size.width/2;
-  NSLog(@"width %d", width);
-
-	// Define the dynamic body.
-	//Set up a 1m squared box in the physics world
-	b2BodyDef bodyDef;
-	bodyDef.type = b2_dynamicBody;
-  bodyDef.linearDamping = 0.4f;
-  bodyDef.angularDamping = 0.4f;
-  
-	bodyDef.position.Set(p.x/PTM_RATIO, p.y/PTM_RATIO);
-	bodyDef.userData = sprite;
-	b2Body *body = world->CreateBody(&bodyDef);
-	
-  b2CircleShape circle;
-  circle.m_radius = width/(float)PTM_RATIO;
-  
-  b2FixtureDef ballShapeDef;
-  ballShapeDef.shape = &circle;
-  ballShapeDef.density = 1.0;
-  ballShapeDef.friction = 0.6f;
-  ballShapeDef.restitution = 0.6f;
-  body->CreateFixture(&ballShapeDef);
-  
-  return body;
 }
 
 
@@ -250,10 +226,10 @@ enum {
 - (void)ccTouchEnded:(UITouch *)touch withEvent:(UIEvent *)event {
 	CGPoint location = [self convertTouchToNodeSpace: touch];
   NSLog(@"location %f, %f", location.x, location.y);
-  float x = (location.x -  _cocosGuy->GetPosition().x * PTM_RATIO)/3;
-  float y = (location.y -  _cocosGuy->GetPosition().y * PTM_RATIO)/3;
+  float x = (location.x -  mainBall.position.x);
+  float y = (location.y -  mainBall.position.y);
   NSLog(@"%f %f", x, y);
-  _cocosGuy->SetLinearVelocity(*(new b2Vec2(x, y)));
+  mainBall.body->SetLinearVelocity(*(new b2Vec2(x, y)));
   //_cocosGuy->ApplyForce(*(new b2Vec2(x, y)), _cocosGuy->GetWorldCenter());
 	//[_cocosGuy stopAllActions];
 	//[_cocosGuy runAction: [CCMoveTo actionWithDuration:1 position:location]];    

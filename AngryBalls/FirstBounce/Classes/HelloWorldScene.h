@@ -11,14 +11,18 @@
 #import "cocos2d.h"
 #import "Box2D.h"
 #import "GLES-Render.h"
+#define PTM_RATIO 32
 
+@class AngryBallSprite;
 // HelloWorld Layer
 @interface HelloWorld : CCLayer
 {
 	b2World* world;
 	GLESDebugDraw *m_debugDraw;
+  AngryBallSprite * mainBall;
 }
 
+@property (nonatomic, retain) AngryBallSprite * mainBall;
 // returns a Scene that contains the HelloWorld as the only child
 +(id) scene;
 
